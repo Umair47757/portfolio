@@ -9,7 +9,7 @@ import {
   DiPython,
   DiGit,
 } from "react-icons/di";
-import { SiPytorch, SiTensorflow, SiFirebase } from "react-icons/si";
+import { SiBlockchaindotcom, SiTensorflow, SiFirebase } from "react-icons/si";
 
 function Techstack() {
   return (
@@ -33,7 +33,7 @@ function Techstack() {
         <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPytorch />
+        <SiBlockchaindotcom />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiTensorflow />
