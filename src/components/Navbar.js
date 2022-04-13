@@ -39,6 +39,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/">
+          {/* <img src={logo} alt="image"/> */}
           <Logo/>
         </Navbar.Brand>
         <Navbar.Toggle
@@ -130,5 +131,3 @@ const Logo = ()=>{
     </div>
   )
 }
-
-/* A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks. */
