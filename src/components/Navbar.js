@@ -125,7 +125,7 @@ const Logo = ()=>{
   return(
     <div className='logo'>
       <span>{'<'}</span>
-      <span className='logo-name'>Anas Saleem</span>
+      <span className='logo-name'>Umair Razzaq</span>
       <span>{'/>'}</span>
     </div>
   )
